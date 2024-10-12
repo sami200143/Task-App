@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">taskapp</string>
+    <string name="add_task">Add Task.</string>
+    <string name="content">content</string>
+    <string name="title">Title</string>
+    <string name="edit_task">edit_task</string>
+    <string name="edit">Edit Task</string>
+    <string name="description">Enter the Description</string>
+    <string name="title_data">Enter the title</string>
+</resources>
